@@ -1,4 +1,4 @@
 # Shutdown servers
 shutdown_servers:
   module.run:
-  - name: system.shutdown 1
+  - name: system.shutdown
